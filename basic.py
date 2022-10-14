@@ -7,7 +7,7 @@ def two_sum(x):
 #     for num in range(x):
 #         num=num+ 2
     for i in range(10):
-        print("1")
+        print("7")
     print("time for 1st process :",time.time()-t)
     
-two_sum(120)    
+two_sum(12000)    
